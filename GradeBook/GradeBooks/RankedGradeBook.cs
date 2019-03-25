@@ -34,7 +34,7 @@ namespace GradeBook.GradeBooks
 
                 else if(grades[(threshold * 3)-1] <= averageGrade)
                 {
-                    return 'C';
+                    return 'C'
                 }
 
                 else if(grades[(threshold * 4)-1] <= averageGrade)
